@@ -1,0 +1,16 @@
+CREATE TABLE reports (
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	license_plate TEXT NOT NULL,
+	driver_id INTEGER NOT NULL,
+	speed INT NOT NULL
+);
+
+INSERT INTO REPORTS (license_plate, driver_id, speed)
+VALUES ('75-413-13', 5574, 130);
+INSERT INTO REPORTS (license_plate, driver_id, speed)
+VALUES ('35-551-87', 1451, 180);
+INSERT INTO REPORTS (license_plate, driver_id, speed)
+VALUES ('34-496-17', 8329, 100);
+
+
+nodeprojdb

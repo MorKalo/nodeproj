@@ -1,0 +1,24 @@
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-16T08:46:13.129Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-16T09:05:00.324Z'
+}
+{
+  message: 'failed to update report. Error: Error: Empty .update() call detected! Update data does not contain any values to update. This will result in a faulty query. Table: reports. Columns: .',
+  level: 'error',
+  label: 'main module',
+  timestamp: '2022-06-16T09:14:42.468Z'
+}
+{
+  message: 'failed to update report. Error: Error: Empty .update() call detected! Update data does not contain any values to update. This will result in a faulty query. Table: reports. Columns: .',
+  level: 'error',
+  label: 'main module',
+  timestamp: '2022-06-16T09:14:57.711Z'
+}
